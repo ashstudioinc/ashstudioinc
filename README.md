@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ashstudioinc
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Game Development
-- 💞️ I’m looking to collaborate on Game Development Projects
+- 👀 Done So many Projects of games
+- 💞️ looking to collaborate on Game Development Projects
 - 📫 You Can contact me via email on ashstudioinc@gmail.com 
 
 <!---
